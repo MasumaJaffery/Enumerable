@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Morse-Code-in-Ruby\] ](#-morse-code-in-ruby-)
+- [📖 \[Enumerables-in-Ruby\] ](#-enumerables-in-ruby-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [Getting Started](#getting-started)
@@ -22,7 +22,7 @@
 
 Enumerables Code by Ruby
 
-**[Morse-Code-in-Ruby]** is a...
+**[Enumerables-in-Ruby]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 Ruby
@@ -54,7 +54,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git@github.com:cancelei/Morse-Code-in-Ruby.git
+  git@github.com:MasumaJaffery/Enumerable.git
 ```
  
 --->
@@ -81,6 +81,12 @@ Run the following command inside the project folder:
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Syeda Masuma Fatima**
+
+- GitHub: [@MasumaJaffery](https://github.com/MasumaJaffery)
+- Twitter: [@MasumaJaffery](https://twitter.com/MasumaJaffery)
+- LinkedIn: [Masuma Jaffery](https://www.linkedin.com/in/masuma-jaffery-797a29256/)
+
 👤 **Glauber Bannwart**
 
 - GitHub: [@cancelei](https://github.com/cancelei)
@@ -91,12 +97,6 @@ Run the following command inside the project folder:
 - GitHub: [@Grandi0z](https://github.com/Grandi0z)
 - Twitter: [@Joseph_LSK](https://twitter.com/Joseph_LSK)
 - LinkedIn: [Joseph L Kausi](https://www.linkedin.com/in/joskal/)
-
-👤 **Syeda Masuma Fatima**
-
-- GitHub: [@MasumaJaffery](https://github.com/MasumaJaffery)
-- Twitter: [@MasumaJaffery](https://twitter.com/MasumaJaffery)
-- LinkedIn: [Masuma Jaffery](https://www.linkedin.com/in/masuma-jaffery-797a29256/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
