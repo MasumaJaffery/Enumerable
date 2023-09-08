@@ -19,6 +19,6 @@ def filter
     each do |element|
     result << element if yield(element)
     end
-    result
+    result.to_s
     end
     end

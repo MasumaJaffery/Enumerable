@@ -2,7 +2,7 @@ require_relative 'enumerable'
 
 class MyList
     include MyEnumerable
-    def intialize (*args)
+    def initialize (*args)
     @list = args
     end
     def each

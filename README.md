@@ -1,36 +1,35 @@
-<!-- TABLE OF CONTENTS -->
-
+ <h3><b>Enumerable</b></h3>
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Enumerables-in-Ruby\] ](#-enumerables-in-ruby-)
-  - [🛠 Built With ](#-built-with-)
+- [📖 Enumerables-in-Ruby ](#-enumerables-in-ruby-)
+  - [🛠 Built With \</a](#-built-with-a)
     - [Tech Stack ](#tech-stack-)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
+    - [Useage](#useage)
   - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [Enumerables-in-Ruby] <a name="about-project"></a>
+# 📖 Enumerables-in-Ruby <a name="about-project"></a>
 
 Enumerables Code by Ruby
 
-**[Enumerables-in-Ruby]** is a...
+**Enumerables-in-Ruby** is a program that implements the methods: all? any? and filter, according to their model in the ENUMERABLE
 
-## 🛠 Built With <a name="built-with"></a>
-Ruby
+## 🛠 Built With <a name="built-with"></a
 
 ### Tech Stack <a name="tech-stack"></a>
-
-
-    <a href="https://gorails.com/setup/windows/11">Ruby</a></li>
+  <details>
+    <ul>
+      <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    </ul>
+  </details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -39,10 +38,8 @@ Ruby
 ## Getting Started
 
 ### Prerequisites
-In order to run this project, you must have installed and configured the following tools in your local environment:
-- PowerShell as Admin
-- Ubuntu
-- Ruby Configurations
+In order to run this project, you must have installed and configured ruby in your local environment:
+
 
 
 ### Setup
@@ -132,6 +129,6 @@ Special Thanks to the Microverse and Microanuts.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](https://github.com/MasumaJaffery/Enumerable/blob/work/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
