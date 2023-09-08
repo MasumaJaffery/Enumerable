@@ -1,12 +1,12 @@
 require_relative 'enumerable'
 
 class MyList
-    include MyEnumerable
-    def initialize (*args)
+  include MyEnumerable
+  def initialize(*args)
     @list = args
-    end
-    def each
-    @list.each do|element| yield(element)
-    end
-end
+  end
+
+  def each(&block)
+    @list.each(&block)
+  end
 end
