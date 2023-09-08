@@ -8,9 +8,11 @@ class MyList
 
   def each()
     size = @list.length
-    (0...size).each do |i|
+    i = 0
+    while i < size
       element = @list[i]
       yield(element)
+      i += 1
     end
   end
 end
