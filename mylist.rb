@@ -6,7 +6,11 @@ class MyList
     @list = args
   end
 
-  def each(&block)
-    @list.each(&block)
+  def each()
+    size = @list.length
+    (0...size).each do |i|
+      element = @list[i]
+      yield(element)
+    end
   end
 end
